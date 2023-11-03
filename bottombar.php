@@ -1,0 +1,1 @@
+<p class="text-center p-2 bg-secondary text-white">Copyright &copy; 2023. All rights reserved by programmerMax.</p>
